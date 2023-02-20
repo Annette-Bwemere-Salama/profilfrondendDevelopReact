@@ -1,10 +1,10 @@
-body {
+/* body {
   background: rgba(35, 37, 44, 1);
   margin: 0;
   padding: 0;
-}
+} */
 
-.diveDensemble {
+/* .diveDensemble {
   justify-content: center;
   align-items: center;
   position: relative;
@@ -14,14 +14,14 @@ body {
   color: white;
   background: rgba(26, 27, 33, 1);
   padding: -30px;
-}
+} */
 
-.naVAnnette img {
+/* .naVAnnette img {
   height: 13rem;
   width: 19.5rem;
   border-radius: 10px;
-}
-
+} */
+/* 
 .mailImage {
   display: flex;
   height: 40px;
@@ -30,9 +30,9 @@ body {
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
   color: rgb(0, 0, 0);
   border-radius: 10px;
-}
+} */
 
-.linkedin {
+/* .linkedin {
   display: flex;
   height: 40px;
   width: 120px;
@@ -40,22 +40,22 @@ body {
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
   color: white;
   border-radius: 10px;
-}
+} */
 
-.email {
+/* .email {
   height: 40px;
   width: 120px;
   background: rgb(255, 255, 255);
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
   border-radius: 10px;
-}
+} */
 
-.mesButtons {
+/* .mesButtons {
   display: flex;
   align-items: center;
   justify-content: space-around;
-}
-article{
+} */
+/* article{
   padding: 20px;
 }
 article p {
@@ -65,9 +65,8 @@ article p {
   font-weight: 400;
   font-size: 12.24px;
   line-height: 150%;
-  /* or 15px */
-}
-
+} */
+/* 
 main h1 {
   left: 186px;
   top: 382px;
@@ -138,4 +137,4 @@ main h1 {
   background: #918e9b;
   border-radius: 10px;
   margin: 10px;
-}
+} */
