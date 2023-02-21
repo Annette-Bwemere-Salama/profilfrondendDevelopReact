@@ -15,8 +15,14 @@ function FooterIcons() {
 
         <img src={instagram} alt='' />
       </a>
-      <img src={linkedin} alt='' />
-      <img src={twitter} alt='' />
+      <a href="" target="_blank">
+
+        <img src={linkedin} alt='' />
+      </a>
+      <a href="" target="_blank">
+
+        <img src={twitter} alt='' />
+      </a>
     </nav>
   );
 }
