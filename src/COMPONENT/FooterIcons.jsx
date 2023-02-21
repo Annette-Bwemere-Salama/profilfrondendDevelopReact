@@ -7,8 +7,14 @@ import twitter from "./images/twitter.svg";
 function FooterIcons() {
   return (
     <nav className="icons">
-      <img src={github} alt='' />
-      <img src={instagram} alt='' />
+      <a href="" target="_blank">
+
+        <img src={github} alt='' />
+      </a>
+      <a href="" target="_blank">
+
+        <img src={instagram} alt='' />
+      </a>
       <img src={linkedin} alt='' />
       <img src={twitter} alt='' />
     </nav>
